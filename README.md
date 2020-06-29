@@ -1,24 +1,7 @@
-# spotif
+# Spotif Clone
 
-## Project setup
-```
-npm install
-```
+Music player that can play, pause, play next, and play previous songs in a playlist.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Built using Vue.js
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](./src/assets/desktop-preview.png)
